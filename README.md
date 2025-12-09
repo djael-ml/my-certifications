@@ -31,9 +31,10 @@ Voici la liste de mes certifications majeures, vérifiables via les liens fourni
 
 ## 📫 Contact & Statut Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1083446451176214629)](https://discord.com/users/1083446451176214629)
+![Discord Presence](https://lanyard.cnrad.dev/api/1083446451176214629)
 
 Si vous souhaitez discuter de ces compétences ou vérifier une accréditation spécifique :
 
 - [LinkedIn](https://fr.linkedin.com/in/dja%C3%ABl-mola)
 - [Mon Portfolio](https://djael-ml.github.io)
+- [Discord](https://discord.com/users/1083446451176214629)
