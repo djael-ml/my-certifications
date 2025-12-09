@@ -31,33 +31,19 @@ Voici la liste de mes certifications majeures, vérifiables via les liens fourni
 
 ---
 
-## 🎖️ Badges de Plateformes & Challenges
-
-Mes accomplissements sur les plateformes d'apprentissage et de défis de code.
-
-### 🧠 Algorithmique & Code
-| Plateforme | Rang / Badge | Lien Profil |
-| :--- | :--- | :--- |
-| **LeetCode** | 🏅 Top 15% (Solved 200+) | [Mon Profil](https://leetcode.com/ton-user) |
-| **HackerRank** | ⭐ Gold Badge (Python) | [Mon Profil](https://hackerrank.com/ton-user) |
-| **Codewars** | 🥋 4th Kyu | [Mon Profil](https://codewars.com/users/ton-user) |
-
-### 📚 Apprentissage Continu (Udemy, Coursera, etc.)
-> *Ces cours attestent de ma curiosité et de ma volonté d'apprendre, bien qu'ils ne soient pas des certifications d'éditeurs.*
-
-* **Udemy:** The Complete JavaScript Course 2025: From Zero to Expert [Voir Certificat](./assets/badges/udemy-js.png)
-* **Coursera:** Machine Learning Specialization (Stanford) [Voir Certificat](./pdf/coursera-ml.pdf)
-* **FreeCodeCamp:** Responsive Web Design Certification [Lien de vérification](https://freecodecamp.org/certification/ton-lien)
-
----
-
 ## 📊 Statistiques GitHub (Optionnel)
 
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=djael-ml&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Statut
+
+<p align="left">
+  <a href="https://discord.com/users/1083446451176214629" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1083446451176214629?bg=0d1117&borderRadius=10&mode=iframe" alt="Discord Profile" width="400" />
+  </a>
+</p>
 
 Si vous souhaitez discuter de ces compétences ou vérifier une accréditation spécifique :
 
