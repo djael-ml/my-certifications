@@ -24,10 +24,7 @@ Voici la liste de mes certifications majeures, vérifiables via les liens fourni
 
 | Organisme | Certification | Date d'obtention | Expiration | Preuve / Badge |
 | :---: | :--- | :---: | :---: | :---: |
-| **Amazon Web Services** | <br>**AWS Certified Solutions Architect – Associate** | Déc. 2024 | Déc. 2027 | [![AWS Badge](https://img.shields.io/badge/Verify-Credly-orange)](https://www.credly.com/ton-lien-ici) |
-| **Google Cloud** | <br>**Professional Cloud Developer** | Jan. 2025 | Jan. 2027 | [![GCP Badge](https://img.shields.io/badge/Verify-Google-4285F4)](https://google.com/ton-lien-ici) |
-| **Meta (Facebook)** | <br>**Meta Front-End Developer Professional Certificate** | Juin 2024 | N/A | [Voir le PDF](./pdf/meta-frontend.pdf) |
-| **HashiCorp** | <br>**Terraform Associate (003)** | Nov. 2024 | Nov. 2026 | [![Terraform Badge](https://img.shields.io/badge/Verify-Credly-5C4EE5)](https://www.credly.com/ton-lien-ici) |
+| **Linux Unhatched** | <br>**AWS Certified Solutions Architect – Associate** | Déc. 2025 | Déc. 2025 | [![LinuxUnhatched Badge](https://img.shields.io/badge/Verify-Credly-orange)](https://www.credly.com/badges/2b401d08-288a-4893-b572-e7863a7fd13d/public_url) |
 
 ---
 
