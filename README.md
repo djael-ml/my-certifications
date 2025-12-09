@@ -8,14 +8,7 @@ Bienvenue sur mon repository de certifications. Ce dépôt centralise l'ensemble
 
 ### Backend & Langages
 ![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Verified-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ---
 
 ## 📜 Certifications Officielles
@@ -44,6 +37,5 @@ Voici la liste de mes certifications majeures, vérifiables via les liens fourni
 
 Si vous souhaitez discuter de ces compétences ou vérifier une accréditation spécifique :
 
-* [LinkedIn](https://linkedin.com/in/ton-profil)
-* [Mon Portfolio](https://ton-site-web.com)
-* Email: ton-email@example.com
+* [LinkedIn](https://fr.linkedin.com/in/dja%C3%ABl-mola)
+* [Mon Portfolio](https://djael-ml.github.io)
