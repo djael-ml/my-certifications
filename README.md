@@ -9,6 +9,7 @@ Bienvenue sur mon repository de certifications. Ce dépôt centralise l'ensemble
 ### Backend & Langages
 ![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ---
 
 ## 📜 Certifications Officielles
@@ -17,13 +18,13 @@ Voici la liste de mes certifications majeures, vérifiables via les liens fourni
 
 | Organisme | Certification | Date d'obtention | Expiration | Preuve / Badge |
 | :---: | :--- | :---: | :---: | :---: |
-| **Linux Unhatched** | <br>**AWS Certified Solutions Architect – Associate** | Déc. 2025 | Déc. 2025 | [![LinuxUnhatched Badge](https://img.shields.io/badge/Verify-Credly-orange)](https://www.credly.com/badges/2b401d08-288a-4893-b572-e7863a7fd13d/public_url) |
+| **Linux Unhatched** | **Issued by Cisco** | Déc. 2025 | Déc. 2025 | [![LinuxUnhatched Badge](https://img.shields.io/badge/Verify-Credly-orange)](https://www.credly.com/badges/2b401d08-288a-4893-b572-e7863a7fd13d/public_url) |
 
 ---
 
 ## 📊 Statistiques GitHub (Optionnel)
 
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=djael-ml&show_icons=true&theme=radical)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=djael-ml&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7F00FF&line=BB00FF&point=FFFFFF&area_color=7F00FF&title_color=7F00FF" alt="Contribution Graph" />
 
 ---
 
