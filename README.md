@@ -31,7 +31,8 @@ Voici la liste de mes certifications majeures, vérifiables via les liens fourni
 
 ## 📫 Contact & Statut Discord
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1083446451176214629)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1083446451176214629?theme=dark&bg=0d1117&borderRadius=20px&animated=true&showDisplayName=true&idleMessage=while%20True%3A%20code())](https://discord.com/users/1083446451176214629)
+
 
 Si vous souhaitez discuter de ces compétences ou vérifier une accréditation spécifique :
 
